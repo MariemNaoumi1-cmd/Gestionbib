@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Gestionbib/Gestionbib.vcxproj" Id="9e1d9757-7661-4363-b372-32b2f06ed80e" />
+</Solution>
